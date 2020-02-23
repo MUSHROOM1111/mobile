@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "654183259466",
+    "firebase_url": "https://rookkie-af760.firebaseio.com",
+    "project_id": "rookkie-af760",
+    "storage_bucket": "rookkie-af760.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654183259466:android:d5511813b49ac0b5d475b3",
+        "android_client_info": {
+          "package_name": "com.example.rookkie_app_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654183259466-t25qm6ug04nhv36orn7esohqb2tpou99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7m3bWmUobBXa6zlsVfthVVo_Vyjaa83M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654183259466-t25qm6ug04nhv36orn7esohqb2tpou99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654183259466:android:e819d8271803991fd475b3",
+        "android_client_info": {
+          "package_name": "com.example.rookkie_driver_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654183259466-t25qm6ug04nhv36orn7esohqb2tpou99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7m3bWmUobBXa6zlsVfthVVo_Vyjaa83M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654183259466-t25qm6ug04nhv36orn7esohqb2tpou99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
